@@ -1,0 +1,8 @@
+agno
+openai
+groq
+langchain
+langchain_community
+streamlit
+youtube_transcript_api
+duckduckgo-search
