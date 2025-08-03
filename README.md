@@ -11,7 +11,6 @@ An advanced multi-tasking AI chatbot that goes beyond traditional assistants —
 ![Multi-AI-Agent Screenshot](https://github.com/user-attachments/assets/38f62570-2423-4b23-95a6-311b3f4bc225)
 
 
-https://github.com/user-attachments/assets/3035b17c-b47d-4cdc-afed-d8986d5bd5cd
 
 
 ---
@@ -64,10 +63,8 @@ https://github.com/user-attachments/assets/3035b17c-b47d-4cdc-afed-d8986d5bd5cd
 
 ## 📸 UI Preview
 
-| Web Search                                                                              | YouTube Summary | Blog Generation |
-| --------------------------------------------------------------------------------------- | --------------- | --------------- |
-| ![web](https://github.com/user-attachments/assets/92341e43-a71f-4da6-8903-a16f16c9cf20) | *Coming Soon*   | *Coming Soon*   |
 
+https://github.com/user-attachments/assets/3035b17c-b47d-4cdc-afed-d8986d5bd5cd
 ---
 
 ## 📦 Installation
