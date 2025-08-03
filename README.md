@@ -9,6 +9,7 @@ Sure! Here's a professional and informative `README.md` file for your **Multi-AI
 An advanced multi-tasking AI chatbot that goes beyond traditional assistants — from real-time web search to blog generation from YouTube videos, it’s built to save your time and supercharge productivity.
 
 ![Multi-AI-Agent Screenshot](https://github.com/user-attachments/assets/38f62570-2423-4b23-95a6-311b3f4bc225)
+<img width="1659" height="909" alt="Screenshot 2025-06-06 at 11 08 12 AM" src="https://github.com/user-attachments/assets/627ef858-4394-47b8-a858-307a8ebe7cc4" />
 
 
 
