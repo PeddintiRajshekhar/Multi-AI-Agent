@@ -64,8 +64,8 @@ An advanced multi-tasking AI chatbot that goes beyond traditional assistants —
 ## 📸 UI Preview
 
 
-https://github.com/user-attachments/assets/3035b17c-b47d-4cdc-afed-d8986d5bd5cd
 ---
+https://github.com/user-attachments/assets/3035b17c-b47d-4cdc-afed-d8986d5bd5cd
 
 ## 📦 Installation
 
